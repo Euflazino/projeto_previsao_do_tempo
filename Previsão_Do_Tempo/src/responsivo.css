@@ -1,0 +1,33 @@
+@media only screen and (max-width: 768px) {
+  .input-cidade {
+    width: 70%;
+    font-size: 14px;
+  }
+
+  .img-busca {
+    width: 20px;
+    height: 20px;
+  }
+
+  .cidade {
+    font-size: 24px;
+  }
+
+  .temp {
+    font-size: 48px;
+    margin: 10px 0;
+  }
+
+  .img-previsao {
+    width: 80px;
+    height: 80px;
+  }
+
+  .previsao {
+    font-size: 20px;
+  }
+
+  .umidade {
+    font-size: 14px;
+  }
+}
